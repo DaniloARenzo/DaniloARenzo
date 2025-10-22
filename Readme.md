@@ -27,4 +27,8 @@
 </ul>
 
 <h1><b>Contact</b></h1>
-* ✉️  You can contact me at [renzo.a.danilo@gmail.com](mailto:renzo.a.danilo@gmail.com)
+
+<p>
+For questions and collaborations, feel free to reach out via email:  
+<a href="mailto:renzo.a.danilo@gmail.com"><b>renzo.a.danilo@gmail.com</b></a>
+</p>
