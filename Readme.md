@@ -1,4 +1,4 @@
-<h1 align="center">DANILO ANTONELLO RENZO</h1>
+<h1 align="center">Danilo Antonello Renzo</h1>
 
 <p align="center">
   <img 
