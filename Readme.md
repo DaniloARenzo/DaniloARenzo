@@ -1,4 +1,4 @@
-<h1 align="center">Danilo Antonello Renzo</h1>
+<h1 align="left">About me:</h1>
 
 <p align="center">
   <img 
