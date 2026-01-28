@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-       src="https://github.com/user-attachments/assets/bf63f00e-390b-44d5-89dd-657b24bf6773" 
+       src="https://github.com/user-attachments/assets/f77980e2-3e37-4842-a387-faedf5cb0fa3"
        alt="Danilo Antonello Renzo"
        width="300"
        style="border-radius:50%; display:block; margin:auto;" 
