@@ -10,7 +10,7 @@
 </p>
 
 <p align="justify">
-<h3 align="justify">I am a Postdoctoral Research Fellow at Sapienza University of Rome. My research focuses on designing methodologies for dataset preparation, explainable AI, and model validation. </h3>
+<h3 align="justify">I am a Postdoctoral Researcher at Sapienza University of Rome. My research focuses on designing methodologies for dataset preparation, explainable AI, and model validation. </h3>
 </p>
 
 <h1><b>Recent Publications</b></h1>
